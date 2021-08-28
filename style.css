@@ -24,3 +24,14 @@ b{
     color: red;
     font-weight: bold;
 }
+.mini_result{
+    background-color: rgb(217, 255, 0);
+    font-size: 25px;
+    font-weight: bold;
+   font-family: sans-serif;
+}
+#final_result{
+    background-color: rgb(3, 250, 3);
+    box-shadow: 5px 5px 18px orange;
+    font-family: cursive;
+}
